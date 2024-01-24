@@ -20,6 +20,7 @@ public class Calculator {
                 System.out.println("ANS "+ans);
                 break;
             case '*':
+            
                 ans=num1*num2;
                 System.out.println("ANS "+ans);
                 break;                
